@@ -15,3 +15,10 @@ The `data.json` file contains a json object of words that are used by the haiku 
 2. Ensure that all depenencies are installed (check `requirements.txt`)
 3. From command line, `cd` in the `bot` directory and execute `python app.py`.
 4. Once the program is running, any mentions made to the bot account (while the bot is logged in) will be replied to!
+
+---
+
+# TO-DO
+
+* Add tests 
+* Reformat so code adheres to PEP8 standards
